@@ -1,0 +1,230 @@
+feedback_id,customer_id,type,channel,sentiment,message,created_at,nps_score,resolved
+FB-00001,CUST-0055,praise,nps,positive,Suporte muito rápido,2023-11-17,,False
+FB-00002,CUST-0157,bug,suporte,negative,Integração com API retorna timeout,2024-02-07,,True
+FB-00003,CUST-0074,praise,formulario,positive,Plataforma excelente!,2024-10-31,,False
+FB-00004,CUST_0178,complaint,nps,negative,Tempo de resposta do suporte muito alto,2024-01-10,,False
+FB-00005,CUST-0178,bug,nps,negative,Integração com API retorna timeout,2024-05-31,,True
+FB-00006,CUST-0126,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2023-12-14,,False
+FB-00007,CUST_0126,praise,email,positive,Melhorou muito nos últimos meses,2023-02-16,,
+FB-00008,CUST-0126,support,suporte,neutral,Como faço para adicionar usuários?,2023-05-24,,
+FB-00009,CUST-0052,praise,nps,positive,Suporte muito rápido,2024-06-03,,True
+FB-00010,CUST-0052,feature_request,plataforma,neutral,Seria ótimo ter alertas por email,2024-11-20,,
+FB-00011,CUST-0032,praise,nps,positive,Plataforma excelente!,2024-11-02,,
+FB-00012,CUST-0035,praise,suporte,positive,Plataforma excelente!,2024-09-26,,
+FB-00013,CUST-0019,bug,suporte,negative,Erro 500 ao acessar dashboard,2023-11-18,,
+FB-00014,CUST-0116,support,nps,neutral,Como faço para adicionar usuários?,2023-03-05,,False
+FB-00015,CUST-0116,praise,nps,positive,Suporte muito rápido,2023-11-18,,
+FB-00016,CUST-0116,complaint,nps,negative,Interface confusa,2024-11-28,3,False
+FB-00017,CUST-0045,feature_request,email,neutral,Falta integração com Slack,2023-11-01,,
+FB-00018,CUST-0183,complaint,nps,negative,Interface confusa,2023-10-08,,False
+FB-00019,CUST-0183,complaint,formulario,negative,Interface confusa,2023-05-30,,
+FB-00020,CUST-0183,feature_request,plataforma,neutral,Seria ótimo ter alertas por email,2024-05-05,,True
+FB-00021,CUST-0114,complaint,nps,negative,Tempo de resposta do suporte muito alto,2023-09-03,,True
+FB-00022,CUST-0023,feature_request,formulario,neutral,Seria ótimo ter alertas por email,2024-04-28,,True
+FB-00023,CUST-0175,support,plataforma,neutral,Como faço para adicionar usuários?,2024-05-02,0,True
+FB-00024,CUST-0082,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2023-02-08,,False
+FB-00025,,bug,nps,negative,Integração com API retorna timeout,2023-10-24,5,False
+FB-00026,CUST-0171,praise,suporte,positive,Melhorou muito nos últimos meses,2024-10-18,,True
+FB-00027,CUST-0089,feature_request,formulario,neutral,Seria ótimo ter alertas por email,2024-04-14,,False
+FB-00028,CUST-0089,praise,email,positive,Suporte muito rápido,2023-07-17,,True
+FB-00029,CUST-0182,bug,formulario,negative,Erro 500 ao acessar dashboard,2023-05-24,,False
+FB-00030,CUST-0017,support,plataforma,neutral,Preciso de nota fiscal,2023-11-06,,True
+FB-00031,CUST-0017,bug,nps,negative,Integração com API retorna timeout,2023-05-02,,
+FB-00032,CUST-0141,support,suporte,neutral,Como faço para adicionar usuários?,2023-10-30,9,False
+FB-00033,CUST-0139,praise,suporte,positive,Plataforma excelente!,2024-04-27,,
+FB-00034,CUST-0075,bug,nps,negative,Sistema travando ao exportar relatórios,2024-04-02,8,
+FB-00035,CUST-0075,feature_request,nps,neutral,Falta integração com Slack,2024-07-03,3,
+FB-00036,CUST-0077,bug,suporte,negative,Integração com API retorna timeout,2024-06-06,,
+FB-00037,CUST-0041,praise,formulario,positive,Melhorou muito nos últimos meses,2023-11-12,1,True
+FB-00038,CUST-0164,complaint,formulario,negative,Interface confusa,2024-07-08,6,True
+FB-00039,CUST-0190,complaint,email,negative,Interface confusa,2024-10-23,,False
+FB-00040,CUST-0190,feature_request,suporte,neutral,Seria ótimo ter alertas por email,2024-11-30,,True
+FB-00041,CUST-0093,praise,formulario,positive,Plataforma excelente!,2024-06-25,,False
+FB-00042,CUST-0131,praise,email,positive,Suporte muito rápido,2024-06-28,3,
+FB-00043,CUST-0058,bug,formulario,negative,Sistema travando ao exportar relatórios,2024-11-07,1,
+FB-00044,CUST-0058,bug,suporte,negative,Integração com API retorna timeout,2024-09-04,7,True
+FB-00045,CUST-0194,complaint,suporte,negative,Preço alto para o que entrega,2023-02-27,,
+FB-00046,CUST-0195,complaint,nps,negative,Tempo de resposta do suporte muito alto,2023-11-25,,False
+FB-00047,CUST-0036,support,email,neutral,Não consigo resetar minha senha,2023-06-29,,
+FB-00048,CUST-0061,complaint,plataforma,negative,Interface confusa,2023-11-23,8,False
+FB-00049,CUST-0127,feature_request,formulario,neutral,Seria ótimo ter alertas por email,2024-12-25,,False
+FB-00050,CUST-0007,bug,formulario,negative,Erro 500 ao acessar dashboard,2023-09-06,,True
+FB-00051,CUST-0173,complaint,nps,negative,Tempo de resposta do suporte muito alto,2023-02-22,,True
+FB-00052,CUST-0142,praise,plataforma,positive,Suporte muito rápido,2024-11-18,,True
+FB-00053,CUST-0142,feature_request,email,neutral,Gostaríamos de exportar em PDF,2023-07-14,,
+FB-00054,CUST-0147,support,email,neutral,Preciso de nota fiscal,2024-07-19,,False
+FB-00055,CUST-0095,praise,email,positive,Suporte muito rápido,2024-05-24,,False
+FB-00056,,bug,nps,negative,Integração com API retorna timeout,2023-08-15,,False
+FB-00057,CUST-0163,bug,email,negative,Integração com API retorna timeout,2023-08-24,,
+FB-00058,CUST-0034,complaint,email,negative,Interface confusa,2024-05-15,5,True
+FB-00059,CUST-0199,praise,formulario,positive,Melhorou muito nos últimos meses,2023-07-08,1,
+FB-00060,CUST-0187,bug,suporte,negative,Sistema travando ao exportar relatórios,2023-05-21,7,False
+FB-00061,CUST-0181,complaint,formulario,negative,Tempo de resposta do suporte muito alto,2024-09-23,,False
+FB-00062,CUST-0080,praise,nps,positive,Melhorou muito nos últimos meses,2023-10-09,,True
+FB-00063,CUST-0102,bug,plataforma,negative,Erro 500 ao acessar dashboard,2023-06-02,6,True
+FB-00064,CUST-0123,feature_request,plataforma,neutral,Seria ótimo ter alertas por email,2024-08-01,,True
+FB-00065,CUST-0135,support,nps,neutral,Como faço para adicionar usuários?,2023-02-02,0,
+FB-00066,CUST-0106,praise,formulario,positive,Melhorou muito nos últimos meses,2024-03-20,,True
+FB-00067,CUST-0105,support,formulario,neutral,Preciso de nota fiscal,2024-08-03,,
+FB-00068,CUST_0148,bug,suporte,negative,Integração com API retorna timeout,2023-11-19,,True
+FB-00069,CUST-0192,praise,nps,positive,Suporte muito rápido,2024-08-03,,
+FB-00070,CUST-0033,support,formulario,neutral,Não consigo resetar minha senha,2023-03-22,,True
+FB-00071,CUST-0185,complaint,formulario,negative,Preço alto para o que entrega,2024-09-01,7,False
+FB-00072,CUST-0162,praise,email,positive,Plataforma excelente!,2024-01-20,,False
+FB-00073,CUST-0191,complaint,suporte,negative,Preço alto para o que entrega,2023-03-26,,False
+FB-00074,CUST-0191,bug,plataforma,negative,Sistema travando ao exportar relatórios,2023-01-06,2,False
+FB-00075,CUST-0160,praise,nps,positive,Plataforma excelente!,2024-02-22,,False
+FB-00076,CUST-0133,bug,nps,negative,Sistema travando ao exportar relatórios,2024-02-28,,True
+FB-00077,CUST-0133,complaint,email,negative,Tempo de resposta do suporte muito alto,2023-06-23,6,False
+FB-00078,CUST-0189,praise,email,positive,Melhorou muito nos últimos meses,2023-03-20,,False
+FB-00079,CUST-0146,feature_request,plataforma,neutral,Falta integração com Slack,2024-02-10,,
+FB-00080,CUST-0047,bug,email,negative,Erro 500 ao acessar dashboard,2023-11-25,6,False
+FB-00081,CUST-0047,feature_request,suporte,neutral,Falta integração com Slack,2024-12-12,,False
+FB-00082,CUST-0047,feature_request,suporte,neutral,Seria ótimo ter alertas por email,2024-07-31,,True
+FB-00083,CUST-0158,praise,formulario,positive,Suporte muito rápido,2024-12-26,,True
+FB-00084,CUST-0158,complaint,email,negative,Interface confusa,2023-09-05,9,False
+FB-00085,CUST-0158,praise,email,positive,Melhorou muito nos últimos meses,2024-07-01,5,
+FB-00086,CUST-0111,praise,suporte,positive,Melhorou muito nos últimos meses,2024-10-15,,True
+FB-00087,CUST-0111,complaint,email,negative,Interface confusa,2023-02-15,,False
+FB-00088,CUST-0129,bug,nps,negative,Integração com API retorna timeout,2023-08-16,,False
+FB-00089,CUST-0015,praise,plataforma,positive,Plataforma excelente!,2024-11-26,,False
+FB-00090,CUST-0170,support,plataforma,neutral,Como faço para adicionar usuários?,2023-04-29,,True
+FB-00091,CUST-0040,feature_request,plataforma,neutral,Gostaríamos de exportar em PDF,2023-04-10,,
+FB-00092,CUST-0078,complaint,suporte,negative,Preço alto para o que entrega,2024-10-25,2,False
+FB-00093,CUST-0043,support,suporte,neutral,Preciso de nota fiscal,2023-08-26,,False
+FB-00094,CUST-0042,complaint,formulario,negative,Preço alto para o que entrega,2023-07-22,4,
+FB-00095,CUST-0083,bug,plataforma,negative,Erro 500 ao acessar dashboard,2023-04-15,1,False
+FB-00096,CUST-0083,complaint,nps,negative,Interface confusa,2024-05-16,,
+FB-00097,CUST-0159,feature_request,plataforma,neutral,Seria ótimo ter alertas por email,2024-04-13,,
+FB-00098,CUST-0091,bug,suporte,negative,Integração com API retorna timeout,2023-11-09,,
+FB-00099,CUST-0029,feature_request,suporte,neutral,Seria ótimo ter alertas por email,2023-07-10,4,True
+FB-00100,CUST-0174,complaint,formulario,negative,Interface confusa,2024-09-26,6,
+FB-00101,CUST-0122,praise,email,positive,Suporte muito rápido,2024-12-02,9,True
+FB-00102,CUST-0121,feature_request,suporte,neutral,Falta integração com Slack,2023-02-03,,False
+FB-00103,CUST-0121,praise,nps,positive,Suporte muito rápido,2023-04-26,,True
+FB-00104,CUST-0067,feature_request,suporte,neutral,Falta integração com Slack,2023-08-12,,True
+FB-00105,CUST-0067,feature_request,formulario,neutral,Gostaríamos de exportar em PDF,2023-12-23,9,
+FB-00106,CUST-0115,complaint,suporte,negative,Tempo de resposta do suporte muito alto,2024-10-09,,
+FB-00107,CUST-0037,feature_request,plataforma,neutral,Falta integração com Slack,2024-07-05,,
+FB-00108,CUST-0109,complaint,email,negative,Tempo de resposta do suporte muito alto,2023-04-08,,
+FB-00109,CUST-0109,bug,suporte,negative,Integração com API retorna timeout,2023-05-16,,True
+FB-00110,CUST-0109,praise,formulario,positive,Melhorou muito nos últimos meses,2023-10-03,,True
+FB-00111,CUST-0011,complaint,email,negative,Interface confusa,2024-12-12,,
+FB-00112,CUST-0179,support,formulario,neutral,Preciso de nota fiscal,2024-10-12,,False
+FB-00113,CUST-0026,praise,nps,positive,Plataforma excelente!,2023-11-27,,False
+FB-00114,CUST-0026,complaint,email,negative,Tempo de resposta do suporte muito alto,2024-11-29,2,False
+FB-00115,CUST-0145,support,suporte,neutral,Preciso de nota fiscal,2024-03-14,,False
+FB-00116,CUST-0071,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2023-03-26,,False
+FB-00117,CUST-0168,complaint,formulario,negative,Tempo de resposta do suporte muito alto,2024-03-15,,True
+FB-00118,,praise,plataforma,positive,Plataforma excelente!,2024-06-15,,False
+FB-00119,CUST-0155,praise,formulario,positive,Plataforma excelente!,2023-08-23,,False
+FB-00120,CUST-0081,complaint,formulario,negative,Preço alto para o que entrega,2023-05-17,,
+FB-00121,CUST-0039,feature_request,email,neutral,Seria ótimo ter alertas por email,2023-08-07,,True
+FB-00122,CUST-0079,bug,email,negative,Erro 500 ao acessar dashboard,2023-05-07,,True
+FB-00123,CUST-0069,bug,plataforma,negative,Integração com API retorna timeout,2024-07-20,10,False
+FB-00124,CUST-0012,complaint,formulario,negative,Tempo de resposta do suporte muito alto,2023-07-13,,True
+FB-00125,CUST-0065,complaint,plataforma,negative,Interface confusa,2023-03-14,9,False
+FB-00126,CUST-0128,complaint,formulario,negative,Preço alto para o que entrega,2024-04-27,4,True
+FB-00127,CUST-0022,bug,nps,negative,Erro 500 ao acessar dashboard,2024-02-12,,False
+FB-00128,CUST-0076,praise,formulario,positive,Melhorou muito nos últimos meses,2024-09-22,,True
+FB-00129,CUST-0197,feature_request,formulario,neutral,Falta integração com Slack,2024-10-11,,
+FB-00130,CUST-0020,feature_request,email,neutral,Seria ótimo ter alertas por email,2023-09-08,,False
+FB-00131,CUST-0020,complaint,suporte,negative,Preço alto para o que entrega,2024-11-04,7,False
+FB-00132,CUST-0020,praise,plataforma,positive,Melhorou muito nos últimos meses,2023-09-23,,True
+FB-00133,CUST-0103,feature_request,nps,neutral,Seria ótimo ter alertas por email,2024-06-20,7,
+FB-00134,CUST-0085,praise,formulario,positive,Melhorou muito nos últimos meses,2024-08-03,,True
+FB-00135,,praise,formulario,positive,Suporte muito rápido,2023-02-15,,True
+FB-00136,CUST-0186,support,email,neutral,Não consigo resetar minha senha,2023-02-06,,False
+FB-00137,CUST-0172,feature_request,formulario,neutral,Gostaríamos de exportar em PDF,2023-03-21,8,True
+FB-00138,CUST-0172,support,plataforma,neutral,Como faço para adicionar usuários?,2023-03-12,7,True
+FB-00139,CUST-0172,feature_request,nps,neutral,Gostaríamos de exportar em PDF,2023-10-26,,
+FB-00140,CUST-0044,support,suporte,neutral,Não consigo resetar minha senha,2023-07-20,6,True
+FB-00141,CUST-0044,feature_request,formulario,neutral,Falta integração com Slack,2023-12-21,10,False
+FB-00142,CUST-0044,complaint,suporte,negative,Interface confusa,2023-11-11,,True
+FB-00143,CUST-0073,bug,nps,negative,Erro 500 ao acessar dashboard,2023-10-14,,False
+FB-00144,CUST-0073,praise,email,positive,Plataforma excelente!,2023-03-28,,True
+FB-00145,CUST-0073,feature_request,plataforma,neutral,Falta integração com Slack,2023-05-14,,
+FB-00146,CUST-0006,praise,nps,positive,Plataforma excelente!,2023-08-28,2,False
+FB-00147,CUST-0004,feature_request,email,neutral,Falta integração com Slack,2024-07-02,,True
+FB-00148,CUST-0117,complaint,formulario,negative,Tempo de resposta do suporte muito alto,2023-11-08,,False
+FB-00149,CUST-0092,complaint,plataforma,negative,Interface confusa,2023-12-31,,True
+FB-00150,CUST-0104,feature_request,formulario,neutral,Falta integração com Slack,2024-04-08,2,True
+FB-00151,CUST-0198,complaint,plataforma,negative,Preço alto para o que entrega,2023-08-16,,
+FB-00152,CUST_0137,praise,email,positive,Plataforma excelente!,2023-03-18,5,True
+FB-00153,CUST-0084,praise,email,positive,Suporte muito rápido,2023-06-22,10,False
+FB-00154,CUST-0027,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2023-07-11,,
+FB-00155,CUST-0087,feature_request,formulario,neutral,Falta integração com Slack,2024-02-26,,False
+FB-00156,CUST-0054,support,nps,neutral,Não consigo resetar minha senha,2024-06-22,,
+FB-00157,CUST-0097,praise,plataforma,positive,Suporte muito rápido,2024-05-11,0,False
+FB-00158,CUST-0196,bug,nps,negative,Erro 500 ao acessar dashboard,2023-10-15,,True
+FB-00159,CUST-0064,bug,formulario,negative,Sistema travando ao exportar relatórios,2024-11-03,,False
+FB-00160,CUST-0064,feature_request,plataforma,neutral,Seria ótimo ter alertas por email,2023-06-27,5,
+FB-00161,CUST-0064,praise,email,positive,Melhorou muito nos últimos meses,2024-07-30,,False
+FB-00162,CUST-0070,bug,formulario,negative,Erro 500 ao acessar dashboard,2024-09-08,,True
+FB-00163,CUST-0038,feature_request,plataforma,neutral,Gostaríamos de exportar em PDF,2023-07-01,9,
+FB-00164,CUST-0038,support,formulario,neutral,Como faço para adicionar usuários?,2023-04-24,,
+FB-00165,CUST-0118,bug,email,negative,Integração com API retorna timeout,2023-11-06,,
+FB-00166,CUST-0062,complaint,plataforma,negative,Tempo de resposta do suporte muito alto,2024-07-29,,True
+FB-00167,CUST-0180,complaint,nps,negative,Interface confusa,2023-10-29,,
+FB-00168,CUST-0169,complaint,email,negative,Tempo de resposta do suporte muito alto,2024-09-18,,True
+FB-00169,CUST-0153,support,plataforma,neutral,Como faço para adicionar usuários?,2023-06-21,3,True
+FB-00170,CUST-0059,feature_request,email,neutral,Seria ótimo ter alertas por email,2023-04-21,,True
+FB-00171,CUST-0010,praise,email,positive,Melhorou muito nos últimos meses,2024-01-23,,
+FB-00172,CUST-0010,feature_request,plataforma,neutral,Gostaríamos de exportar em PDF,2024-04-07,,True
+FB-00173,CUST-0008,bug,formulario,negative,Erro 500 ao acessar dashboard,2024-01-20,,
+FB-00174,CUST-0021,complaint,email,negative,Tempo de resposta do suporte muito alto,2024-03-17,5,True
+FB-00175,CUST-0021,support,nps,neutral,Como faço para adicionar usuários?,2024-02-24,,False
+FB-00176,CUST-0057,bug,formulario,negative,Erro 500 ao acessar dashboard,2024-08-08,1,False
+FB-00177,,complaint,suporte,negative,Preço alto para o que entrega,2024-05-06,1,False
+FB-00178,CUST-0188,complaint,plataforma,negative,Tempo de resposta do suporte muito alto,2023-11-12,,False
+FB-00179,CUST-0101,support,email,neutral,Como faço para adicionar usuários?,2024-01-14,4,
+FB-00180,CUST-0060,complaint,nps,negative,Interface confusa,2024-11-14,,
+FB-00181,CUST-0014,bug,nps,negative,Integração com API retorna timeout,2024-02-01,,False
+FB-00182,CUST-0099,feature_request,formulario,neutral,Seria ótimo ter alertas por email,2023-11-03,,
+FB-00183,CUST-0072,complaint,email,negative,Tempo de resposta do suporte muito alto,2024-09-27,,True
+FB-00184,CUST-0072,support,email,neutral,Não consigo resetar minha senha,2023-07-17,,
+FB-00185,CUST-0161,praise,formulario,positive,Plataforma excelente!,2023-11-24,,False
+FB-00186,CUST-0068,support,nps,neutral,Preciso de nota fiscal,2024-06-16,,False
+FB-00187,CUST-0056,bug,formulario,negative,Sistema travando ao exportar relatórios,2024-08-03,,True
+FB-00188,CUST-0046,support,email,neutral,Preciso de nota fiscal,2023-12-19,,True
+FB-00189,CUST-0046,bug,email,negative,Sistema travando ao exportar relatórios,2024-02-17,,False
+FB-00190,CUST-0113,bug,formulario,negative,Erro 500 ao acessar dashboard,2024-05-01,,False
+FB-00191,CUST-0138,complaint,suporte,negative,Tempo de resposta do suporte muito alto,2024-12-13,,
+FB-00192,CUST-0156,complaint,formulario,negative,Tempo de resposta do suporte muito alto,2023-10-03,,False
+FB-00193,CUST-0166,complaint,suporte,negative,Tempo de resposta do suporte muito alto,2024-01-18,,
+FB-00194,,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2024-06-20,,True
+FB-00195,CUST-0009,bug,email,negative,Integração com API retorna timeout,2024-01-05,,True
+FB-00196,CUST-0049,feature_request,email,neutral,Seria ótimo ter alertas por email,2024-05-15,,False
+FB-00197,,support,formulario,neutral,Não consigo resetar minha senha,2024-12-06,,True
+FB-00198,CUST-0143,complaint,nps,negative,Tempo de resposta do suporte muito alto,2024-11-24,,
+FB-00199,CUST-0143,bug,formulario,negative,Sistema travando ao exportar relatórios,2023-05-16,4,
+FB-00200,CUST-0112,complaint,email,negative,Interface confusa,2024-03-09,4,
+FB-00201,CUST-0112,praise,nps,positive,Melhorou muito nos últimos meses,2024-09-30,,False
+FB-00202,CUST-0112,praise,formulario,positive,Suporte muito rápido,2024-08-31,4,
+FB-00203,CUST-0165,feature_request,plataforma,neutral,Gostaríamos de exportar em PDF,2024-11-02,3,True
+FB-00204,CUST-0184,complaint,suporte,negative,Preço alto para o que entrega,2024-09-06,7,False
+FB-00205,CUST-0184,feature_request,nps,neutral,Seria ótimo ter alertas por email,2024-03-04,,True
+FB-00206,CUST-0016,complaint,plataforma,negative,Preço alto para o que entrega,2024-12-03,,True
+FB-00207,CUST-0030,support,plataforma,neutral,Preciso de nota fiscal,2023-07-05,,True
+FB-00208,CUST-0030,support,suporte,neutral,Preciso de nota fiscal,2023-12-10,,False
+FB-00209,CUST-0107,feature_request,formulario,neutral,Falta integração com Slack,2023-09-24,10,
+FB-00210,CUST-0107,praise,nps,positive,Plataforma excelente!,2024-09-27,,False
+FB-00211,CUST-0018,feature_request,email,neutral,Seria ótimo ter alertas por email,2023-06-04,,False
+FB-00212,CUST-0125,support,suporte,neutral,Como faço para adicionar usuários?,2023-07-04,,True
+FB-00213,CUST-0124,feature_request,formulario,neutral,Gostaríamos de exportar em PDF,2023-06-22,,
+FB-00214,,feature_request,suporte,neutral,Seria ótimo ter alertas por email,2024-05-03,,True
+FB-00215,CUST-0200,complaint,suporte,negative,Tempo de resposta do suporte muito alto,2024-06-27,,False
+FB-00216,CUST-0200,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2023-04-16,,False
+FB-00217,CUST-0110,praise,suporte,positive,Suporte muito rápido,2024-06-16,,False
+FB-00218,CUST-0110,feature_request,email,neutral,Gostaríamos de exportar em PDF,2023-07-12,2,True
+FB-00219,CUST-0110,complaint,formulario,negative,Interface confusa,2024-08-26,,False
+FB-00220,CUST-0144,complaint,formulario,negative,Tempo de resposta do suporte muito alto,2024-08-31,,False
+FB-00221,CUST-0144,feature_request,suporte,neutral,Gostaríamos de exportar em PDF,2023-05-07,,
+FB-00222,CUST-0025,feature_request,nps,neutral,Seria ótimo ter alertas por email,2023-04-14,1,
+FB-00223,CUST-0098,bug,nps,negative,Sistema travando ao exportar relatórios,2023-04-27,,
+FB-00224,CUST-0098,support,formulario,neutral,Preciso de nota fiscal,2024-01-02,,True
+FB-00225,CUST_0132,praise,formulario,positive,Melhorou muito nos últimos meses,2023-08-29,,True
+FB-00226,CUST-0090,complaint,plataforma,negative,Preço alto para o que entrega,2023-03-18,4,False
+FB-00227,CUST-0090,praise,plataforma,positive,Suporte muito rápido,2023-04-13,,False
+FB-00228,CUST-0090,feature_request,formulario,neutral,Gostaríamos de exportar em PDF,2023-04-29,,
+FB-00229,CUST-0086,feature_request,formulario,neutral,Falta integração com Slack,2024-03-24,,True
