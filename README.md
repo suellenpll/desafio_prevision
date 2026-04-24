@@ -20,7 +20,7 @@ Solução de dados que integra três fontes fornecidas, trata inconsistências, 
 - **Gold** — joins e KPIs analíticos prontos para consumo
 
 ### Transformação e Análise
-**pandas** — utilizado nas DAGs para transformação dos dados em todas as camadas. A análise é apresentada diretamente via queries SQL sobre o banco SQLite e documentada neste README, sem necessidade de notebook ou dashboard externo para o escopo do desafio.
+**pandas** — utilizado nas DAGs para transformação dos dados em todas as camadas. A análise é apresentada diretamente via queries SQL sobre o banco SQLite e documentada neste README e no notebook analise_prevision.ipynb.
 
 ### Por que não dbt, Spark ou DuckDB?
 Para o volume de dados apresentado (~600 registros no total), ferramentas como Spark introduziriam complexidade desnecessária. O dbt seria uma alternativa válida à camada Silver/Gold, mas o Airflow já cobre o requisito de orquestração e rastreabilidade. O SQLite atende plenamente ao requisito de armazenamento relacional sem overhead de configuração.
