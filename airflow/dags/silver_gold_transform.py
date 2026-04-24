@@ -78,7 +78,7 @@ def silver_customers(**context):
     df["country"] = df["country"].fillna("unknown").str.strip().str.upper()
 
     # Idade do cliente em dias
-    today = pd.Timestamp.utcnow().normalize()
+    today = pd.Timestamp.utcnow().normalize().tz_localize(None)
     df["customer_age_days"] = (today - df["created_at"]).dt.days
 
     df["_processed_at"] = datetime.utcnow().isoformat()
@@ -135,7 +135,7 @@ def silver_subscriptions(**context):
     df["mrr"] = pd.to_numeric(df["mrr"], errors="coerce")
     df = df[df["mrr"].notna() & (df["mrr"] >= 0)]
 
-    today = pd.Timestamp.utcnow().normalize()
+    today = pd.Timestamp.utcnow().normalize().tz_localize(None)
     df["is_active"] = (df["status"] == "active") & (df["end_date"].isna() | (df["end_date"] > today))
     df["subscription_age_days"] = (today - df["start_date"]).dt.days
 
