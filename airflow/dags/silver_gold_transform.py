@@ -31,7 +31,10 @@ import logging
 # CONFIGURAÇÕES
 # =============================================================================
 
-AIRFLOW_HOME = os.environ.get("AIRFLOW_HOME", "/home/felipe/desafio_prevision/airflow")
+AIRFLOW_HOME = os.environ.get(
+    "AIRFLOW_HOME",
+    os.path.join(os.path.expanduser("~"), "desafio_prevision", "airflow")
+)
 DB_PATH      = os.path.join(AIRFLOW_HOME, "data", "prevision.db")
 
 default_args = {

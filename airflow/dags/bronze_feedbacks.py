@@ -27,7 +27,10 @@ import logging
 # CONFIGURAÇÕES
 # =============================================================================
 
-AIRFLOW_HOME = os.environ.get("AIRFLOW_HOME", "/home/felipe/desafio_prevision/airflow")
+AIRFLOW_HOME = os.environ.get(
+    "AIRFLOW_HOME",
+    os.path.join(os.path.expanduser("~"), "desafio_prevision", "airflow")
+)
 CSV_PATH     = os.path.join(AIRFLOW_HOME, "data", "bronze", "feedbacks.csv")
 DB_PATH      = os.path.join(AIRFLOW_HOME, "data", "prevision.db")
 TABLE_NAME   = "bronze_feedbacks"
