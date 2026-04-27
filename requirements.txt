@@ -1,0 +1,13 @@
+# Orquestração
+apache-airflow==2.10.4
+
+# Dependência indireta do Airflow (gerenciamento interno de metadados)
+SQLAlchemy==1.4.53
+
+# Manipulação de dados
+pandas==2.2.3
+
+# Análise e visualização (notebook)
+jupyter
+matplotlib
+seaborn
